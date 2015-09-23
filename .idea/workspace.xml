@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43056065-e9ee-4368-abb9-1d026bd3466e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/bin/OpenCV Sample - camera-calibration.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/bin/classes.dex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/bin/res/crunch/drawable/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/bin/resources.ap_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/SmartVue.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/classes.dex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/dexedLibs/Parse-1.8.4-ffa902a4b5505651cdf68120f4f2e9d3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/dexedLibs/ParseCrashReporting-1.8.4-a31ec98018e5ad6afd54a3ffe737fe19.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/dexedLibs/ParseFacebookUtils-1.8.4-a3651079b44662bcb5ff3170e9a59d67.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/dexedLibs/android-support-v4-2eb7e9c7bc96d12db2ce77987da94c96.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/dexedLibs/android-support-v7-appcompat-40394de2d4f8bd51353e0aa034a5fce2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/dexedLibs/android-support-v7-appcompat-dae2c3295e5270ac472bd43eaf8ca7d5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/dexedLibs/bolts-android-1.1.4-ad7ab7463e781cfff4b21e367fdcf2ba.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/dexedLibs/bolts-android-1.1.4-javadoc-943557ecfc7a014c006584e357ee4b0c.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/dexedLibs/opencv library - 2.4.10-10f2ad4cbeb15a7aeb4c9fdd8435df0e.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/res/crunch/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/res/crunch/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/res/crunch/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/res/crunch/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/bin/resources.ap_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/resources/background.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/resources/tab.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/resources/titlebar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/resources/titlebar_end.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/resources/background.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/resources/tab.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/resources/titlebar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/resources/titlebar_end.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/resources/background.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/resources/tab.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/resources/titlebar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/resources/titlebar_end.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/bolts-android-1.1.4-javadoc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/bolts-android-1.1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/.cproject" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/.settings/language.settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/.settings/org.eclipse.cdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.cproject" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.idea/SmartVue.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.settings/language.settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/.settings/org.eclipse.cdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/Debug/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/Debug/obj/local/armeabi-v7a/objs/detection_based_tracker/subdir.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/Debug/objects.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/Debug/sources.mk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ConfigCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/CountCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/DeleteCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/FindCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/FunctionCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/GetCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/GetDataCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/LocationCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/LogInCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/Parse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseACL.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseAnalytics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseAnonymousUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseClassName.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseCloud.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseConfig.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseGeoPoint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseImageView.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseInstallation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseObject.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParsePush.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParsePushBroadcastReceiver.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseQuery.CachePolicy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseQuery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseQueryAdapter.OnQueryLoadListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseQueryAdapter.QueryFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseQueryAdapter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseRelation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseRole.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseTwitterUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ParseUser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/ProgressCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/PushService.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/RefreshCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/RequestPasswordResetCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/SaveCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/SendCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/SignUpCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ConfigCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/CountCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/DeleteCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/FindCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/FunctionCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/GetCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/GetDataCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/LocationCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/LogInCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/Parse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseACL.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseAnalytics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseAnonymousUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseClassName.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseCloud.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseConfig.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseException.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseGeoPoint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseImageView.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseInstallation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseObject.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParsePush.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParsePushBroadcastReceiver.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseQuery.CachePolicy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseQuery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseQueryAdapter.OnQueryLoadListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseQueryAdapter.QueryFactory.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseQueryAdapter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseRelation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseRole.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseTwitterUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ParseUser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/ProgressCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/PushService.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/RefreshCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/RequestPasswordResetCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/SaveCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/SendCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/class-use/SignUpCallback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/com/parse/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/deprecated-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/index-all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/serialized-form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4-javadoc/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/Parse-1.8.4.jar.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/com/parse/ParseCrashReporting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/com/parse/class-use/ParseCrashReporting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/com/parse/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/com/parse/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/com/parse/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/com/parse/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/deprecated-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/index-all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4-javadoc/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseCrashReporting-1.8.4.jar.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/com/parse/ParseFacebookUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/com/parse/class-use/ParseFacebookUtils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/com/parse/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/com/parse/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/com/parse/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/com/parse/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/deprecated-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/index-all.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4-javadoc/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/ParseFacebookUtils-1.8.4.jar.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/libs/bolts-android-1.1.4.jar.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/res/layout/face_detect_surface_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/res/layout/user_page.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/res/layout/vue_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/res/raw/haarcascade_eye_tree_eyeglasses.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/res/raw/haarcascade_lefteye_2splits.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/res/raw/haarcascade_righteye_2splits.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/src/com/vsu/smartvue/ParseApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../SmartVue/src/com/vsu/smartvue/SvActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../appcompat_v7/appcompat_v7.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.cproject" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCV/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jarlist.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/.cproject" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/.settings/org.eclipse.cdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/OpenCV Sample - face-detection.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/dexedLibs/opencv library - 2.4.10-c3771470fbd0ed7643f88d0693e34f66.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/jarlist.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/res/crunch/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/resources.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/jni/Android.mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/jni/Application.mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/jni/DetectionBasedTracker_jni.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/jni/DetectionBasedTracker_jni.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/libs/armeabi-v7a/libdetection_based_tracker.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/res/layout/face_detect_surface_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/src/org/opencv/samples/facedetect/FdActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../SmartVue/bin/classes/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../SmartVue/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../SmartVue/src/com/vsu/smartvue/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../appcompat_v7/bin/appcompat_v7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../appcompat_v7/bin/jarlist.cache" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/dexedLibs/annotations-177346a8d16a4ca12c838d066b016b32.jar" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/bin/dexedLibs/annotations-177346a8d16a4ca12c838d066b016b32.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/bin/dexedLibs/opencv library - 2.4.10-10f2ad4cbeb15a7aeb4c9fdd8435df0e.jar" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/bin/dexedLibs/opencv library - 2.4.10-10f2ad4cbeb15a7aeb4c9fdd8435df0e.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/obj/local/armeabi-v7a/libdetection_based_tracker.so" afterPath="$PROJECT_DIR$/../SmartVue/obj/local/armeabi-v7a/libdetection_based_tracker.so" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/obj/local/armeabi-v7a/objs/detection_based_tracker/DetectionBasedTracker_jni.o" afterPath="$PROJECT_DIR$/../SmartVue/obj/local/armeabi-v7a/objs/detection_based_tracker/DetectionBasedTracker_jni.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/obj/local/armeabi-v7a/objs/detection_based_tracker/DetectionBasedTracker_jni.o.d" afterPath="$PROJECT_DIR$/../SmartVue/obj/local/armeabi-v7a/objs/detection_based_tracker/DetectionBasedTracker_jni.o.d" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/res/raw/lbpcascade_frontalface.xml" afterPath="$PROJECT_DIR$/../SmartVue/res/raw/lbpcascade_frontalface.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../OpenCV Sample - face-detection/src/org/opencv/samples/facedetect/DetectionBasedTracker.java" afterPath="$PROJECT_DIR$/../SmartVue/src/com/vsu/smartvue/DetectionBasedTracker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/opencv library - 2.4.10.jar" afterPath="$PROJECT_DIR$/bin/opencv library - 2.4.10.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/resources/inherit.gif" afterPath="$PROJECT_DIR$/javadoc/resources/inherit.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../appcompat_v7/bin/android-support-v7-appcompat.jar" afterPath="$PROJECT_DIR$/../appcompat_v7/bin/android-support-v7-appcompat.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/.gitignore" afterPath="$PROJECT_DIR$/bin/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/R.txt" afterPath="$PROJECT_DIR$/bin/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/aidl/org/opencv/engine/OpenCVEngineInterface.aidl" afterPath="$PROJECT_DIR$/bin/aidl/org/opencv/engine/OpenCVEngineInterface.aidl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/allclasses-frame.html" afterPath="$PROJECT_DIR$/javadoc/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/allclasses-noframe.html" afterPath="$PROJECT_DIR$/javadoc/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/constant-values.html" afterPath="$PROJECT_DIR$/javadoc/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/help-doc.html" afterPath="$PROJECT_DIR$/javadoc/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/index-all.html" afterPath="$PROJECT_DIR$/javadoc/index-all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/index.html" afterPath="$PROJECT_DIR$/javadoc/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/BaseLoaderCallback.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/BaseLoaderCallback.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewFrame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewFrame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewListener.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewListener.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewListener2.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewListener2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/CameraBridgeViewBase.ListItemAccessor.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/CameraBridgeViewBase.ListItemAccessor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/CameraBridgeViewBase.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/CameraBridgeViewBase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/FpsMeter.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/FpsMeter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/InstallCallbackInterface.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/InstallCallbackInterface.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/JavaCameraView.JavaCameraSizeAccessor.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/JavaCameraView.JavaCameraSizeAccessor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/JavaCameraView.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/JavaCameraView.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/LoaderCallbackInterface.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/LoaderCallbackInterface.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/NativeCameraView.OpenCvSizeAccessor.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/NativeCameraView.OpenCvSizeAccessor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/NativeCameraView.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/NativeCameraView.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/OpenCVLoader.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/OpenCVLoader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/Utils.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/Utils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/android/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/android/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/Calib3d.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/Calib3d.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/StereoBM.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/StereoBM.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/StereoSGBM.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/StereoSGBM.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/calib3d/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/Algorithm.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/Algorithm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/Core.MinMaxLocResult.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/Core.MinMaxLocResult.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/Core.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/Core.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/CvException.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/CvException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/CvType.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/CvType.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/Mat.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/Mat.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfByte.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfByte.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfDMatch.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfDMatch.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfDouble.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfDouble.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfFloat.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfFloat.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfFloat4.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfFloat4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfFloat6.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfFloat6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfInt.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfInt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfInt4.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfInt4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfKeyPoint.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfKeyPoint.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfPoint.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfPoint.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfPoint2f.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfPoint2f.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfPoint3.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfPoint3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfPoint3f.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfPoint3f.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfRect.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/MatOfRect.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/Point.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/Point.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/Point3.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/Point3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/Range.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/Range.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/Rect.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/Rect.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/RotatedRect.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/RotatedRect.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/Scalar.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/Scalar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/Size.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/Size.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/TermCriteria.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/TermCriteria.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/core/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/core/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/features2d/DMatch.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/features2d/DMatch.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/features2d/DescriptorExtractor.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/features2d/DescriptorExtractor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/features2d/DescriptorMatcher.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/features2d/DescriptorMatcher.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/features2d/FeatureDetector.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/features2d/FeatureDetector.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/features2d/Features2d.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/features2d/Features2d.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/features2d/GenericDescriptorMatcher.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/features2d/GenericDescriptorMatcher.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/features2d/KeyPoint.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/features2d/KeyPoint.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/features2d/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/features2d/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/features2d/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/features2d/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/features2d/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/features2d/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/highgui/Highgui.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/highgui/Highgui.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/highgui/VideoCapture.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/highgui/VideoCapture.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/highgui/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/highgui/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/highgui/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/highgui/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/highgui/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/highgui/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/CLAHE.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/CLAHE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/Imgproc.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/Imgproc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/Moments.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/Moments.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/Subdiv2D.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/Subdiv2D.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/imgproc/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvANN_MLP.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvANN_MLP.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvANN_MLP_TrainParams.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvANN_MLP_TrainParams.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvBoost.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvBoost.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvBoostParams.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvBoostParams.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvDTree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvDTree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvDTreeParams.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvDTreeParams.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvERTrees.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvERTrees.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvGBTrees.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvGBTrees.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvGBTreesParams.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvGBTreesParams.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvKNearest.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvKNearest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvNormalBayesClassifier.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvNormalBayesClassifier.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvParamGrid.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvParamGrid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvRTParams.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvRTParams.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvRTrees.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvRTrees.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvSVM.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvSVM.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvSVMParams.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvSVMParams.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvStatModel.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/CvStatModel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/EM.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/EM.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/Ml.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/Ml.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/ml/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/ml/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/CascadeClassifier.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/CascadeClassifier.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/HOGDescriptor.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/HOGDescriptor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/Objdetect.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/Objdetect.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/objdetect/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/photo/Photo.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/photo/Photo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/photo/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/photo/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/photo/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/photo/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/photo/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/photo/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/utils/Converters.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/utils/Converters.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/utils/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/utils/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/utils/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/utils/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/utils/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/utils/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/video/BackgroundSubtractor.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/video/BackgroundSubtractor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/video/BackgroundSubtractorMOG.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/video/BackgroundSubtractorMOG.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/video/BackgroundSubtractorMOG2.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/video/BackgroundSubtractorMOG2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/video/KalmanFilter.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/video/KalmanFilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/video/Video.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/video/Video.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/video/package-frame.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/video/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/video/package-summary.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/video/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/org/opencv/video/package-tree.html" afterPath="$PROJECT_DIR$/javadoc/org/opencv/video/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/overview-frame.html" afterPath="$PROJECT_DIR$/javadoc/overview-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/overview-summary.html" afterPath="$PROJECT_DIR$/javadoc/overview-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/overview-tree.html" afterPath="$PROJECT_DIR$/javadoc/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/package-list" afterPath="$PROJECT_DIR$/javadoc/package-list" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/serialized-form.html" afterPath="$PROJECT_DIR$/javadoc/serialized-form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javadoc/stylesheet.css" afterPath="$PROJECT_DIR$/javadoc/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lint.xml" afterPath="$PROJECT_DIR$/lint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/attrs.xml" afterPath="$PROJECT_DIR$/res/values/attrs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/AsyncServiceHelper.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/AsyncServiceHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/BaseLoaderCallback.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/BaseLoaderCallback.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/CameraBridgeViewBase.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/CameraBridgeViewBase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/FpsMeter.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/FpsMeter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/InstallCallbackInterface.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/InstallCallbackInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/JavaCameraView.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/JavaCameraView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/LoaderCallbackInterface.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/LoaderCallbackInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/NativeCameraView.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/NativeCameraView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/OpenCVLoader.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/OpenCVLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/StaticHelper.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/StaticHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/android/Utils.java" afterPath="$PROJECT_DIR$/src/org/opencv/android/Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/calib3d/Calib3d.java" afterPath="$PROJECT_DIR$/src/org/opencv/calib3d/Calib3d.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/calib3d/StereoBM.java" afterPath="$PROJECT_DIR$/src/org/opencv/calib3d/StereoBM.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/calib3d/StereoSGBM.java" afterPath="$PROJECT_DIR$/src/org/opencv/calib3d/StereoSGBM.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/contrib/Contrib.java" afterPath="$PROJECT_DIR$/src/org/opencv/contrib/Contrib.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/contrib/FaceRecognizer.java" afterPath="$PROJECT_DIR$/src/org/opencv/contrib/FaceRecognizer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/contrib/StereoVar.java" afterPath="$PROJECT_DIR$/src/org/opencv/contrib/StereoVar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/Algorithm.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/Algorithm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/Core.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/Core.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/CvException.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/CvException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/CvType.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/CvType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/Mat.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/Mat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfByte.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfByte.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfDMatch.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfDMatch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfDouble.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfDouble.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfFloat.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfFloat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfFloat4.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfFloat4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfFloat6.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfFloat6.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfInt.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfInt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfInt4.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfInt4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfKeyPoint.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfKeyPoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfPoint.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfPoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfPoint2f.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfPoint2f.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfPoint3.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfPoint3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfPoint3f.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfPoint3f.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/MatOfRect.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/MatOfRect.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/Point.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/Point.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/Point3.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/Point3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/Range.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/Range.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/Rect.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/Rect.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/RotatedRect.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/RotatedRect.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/Scalar.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/Scalar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/Size.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/Size.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/core/TermCriteria.java" afterPath="$PROJECT_DIR$/src/org/opencv/core/TermCriteria.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/engine/OpenCVEngineInterface.aidl" afterPath="$PROJECT_DIR$/src/org/opencv/engine/OpenCVEngineInterface.aidl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/features2d/DMatch.java" afterPath="$PROJECT_DIR$/src/org/opencv/features2d/DMatch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/features2d/DescriptorExtractor.java" afterPath="$PROJECT_DIR$/src/org/opencv/features2d/DescriptorExtractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/features2d/DescriptorMatcher.java" afterPath="$PROJECT_DIR$/src/org/opencv/features2d/DescriptorMatcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/features2d/FeatureDetector.java" afterPath="$PROJECT_DIR$/src/org/opencv/features2d/FeatureDetector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/features2d/Features2d.java" afterPath="$PROJECT_DIR$/src/org/opencv/features2d/Features2d.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/features2d/GenericDescriptorMatcher.java" afterPath="$PROJECT_DIR$/src/org/opencv/features2d/GenericDescriptorMatcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/features2d/KeyPoint.java" afterPath="$PROJECT_DIR$/src/org/opencv/features2d/KeyPoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/gpu/DeviceInfo.java" afterPath="$PROJECT_DIR$/src/org/opencv/gpu/DeviceInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/gpu/Gpu.java" afterPath="$PROJECT_DIR$/src/org/opencv/gpu/Gpu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/gpu/TargetArchs.java" afterPath="$PROJECT_DIR$/src/org/opencv/gpu/TargetArchs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/highgui/Highgui.java" afterPath="$PROJECT_DIR$/src/org/opencv/highgui/Highgui.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/highgui/VideoCapture.java" afterPath="$PROJECT_DIR$/src/org/opencv/highgui/VideoCapture.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/imgproc/CLAHE.java" afterPath="$PROJECT_DIR$/src/org/opencv/imgproc/CLAHE.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/imgproc/Imgproc.java" afterPath="$PROJECT_DIR$/src/org/opencv/imgproc/Imgproc.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/imgproc/Moments.java" afterPath="$PROJECT_DIR$/src/org/opencv/imgproc/Moments.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/imgproc/Subdiv2D.java" afterPath="$PROJECT_DIR$/src/org/opencv/imgproc/Subdiv2D.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvANN_MLP.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvANN_MLP.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvANN_MLP_TrainParams.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvANN_MLP_TrainParams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvBoost.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvBoost.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvBoostParams.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvBoostParams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvDTree.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvDTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvDTreeParams.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvDTreeParams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvERTrees.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvERTrees.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvGBTrees.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvGBTrees.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvGBTreesParams.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvGBTreesParams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvKNearest.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvKNearest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvNormalBayesClassifier.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvNormalBayesClassifier.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvParamGrid.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvParamGrid.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvRTParams.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvRTParams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvRTrees.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvRTrees.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvSVM.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvSVM.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvSVMParams.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvSVMParams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/CvStatModel.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/CvStatModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/EM.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/EM.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/ml/Ml.java" afterPath="$PROJECT_DIR$/src/org/opencv/ml/Ml.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/objdetect/CascadeClassifier.java" afterPath="$PROJECT_DIR$/src/org/opencv/objdetect/CascadeClassifier.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/objdetect/HOGDescriptor.java" afterPath="$PROJECT_DIR$/src/org/opencv/objdetect/HOGDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/objdetect/Objdetect.java" afterPath="$PROJECT_DIR$/src/org/opencv/objdetect/Objdetect.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/photo/Photo.java" afterPath="$PROJECT_DIR$/src/org/opencv/photo/Photo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/utils/Converters.java" afterPath="$PROJECT_DIR$/src/org/opencv/utils/Converters.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/video/BackgroundSubtractor.java" afterPath="$PROJECT_DIR$/src/org/opencv/video/BackgroundSubtractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/video/BackgroundSubtractorMOG.java" afterPath="$PROJECT_DIR$/src/org/opencv/video/BackgroundSubtractorMOG.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/video/BackgroundSubtractorMOG2.java" afterPath="$PROJECT_DIR$/src/org/opencv/video/BackgroundSubtractorMOG2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/video/KalmanFilter.java" afterPath="$PROJECT_DIR$/src/org/opencv/video/KalmanFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/opencv/video/Video.java" afterPath="$PROJECT_DIR$/src/org/opencv/video/Video.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/.project" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/gen/org/opencv/samples/cameracalibration/R.java" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/gen/org/opencv/samples/cameracalibration/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/project.properties" afterPath="$PROJECT_DIR$/../OpenCV Sample - camera-calibration/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SmartVue/.project" afterPath="$PROJECT_DIR$/../SmartVue/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SmartVue/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../SmartVue/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SmartVue/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../SmartVue/bin/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SmartVue/bin/R.txt" afterPath="$PROJECT_DIR$/../SmartVue/bin/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SmartVue/bin/jarlist.cache" afterPath="$PROJECT_DIR$/../SmartVue/bin/jarlist.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SmartVue/gen/.gitignore" afterPath="$PROJECT_DIR$/../SmartVue/gen/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SmartVue/project.properties" afterPath="$PROJECT_DIR$/../SmartVue/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SmartVue/res/layout/fragment_main.xml" afterPath="$PROJECT_DIR$/../SmartVue/res/layout/fragment_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SmartVue/res/values/strings.xml" afterPath="$PROJECT_DIR$/../SmartVue/res/values/strings.xml" />
+    </list>
+    <ignored path="OpenCV Library - 2.4.10.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/bin/classes/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="OpenCV Library - 2.4.10" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenCV Library - 2.4.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43056065-e9ee-4368-abb9-1d026bd3466e" name="Default" comment="" />
+      <created>1442783942843</created>
+      <option name="number" value="Default" />
+      <updated>1442783942843</updated>
+      <workItem from="1442783960315" duration="36000" />
+      <workItem from="1442784070962" duration="511000" />
+      <workItem from="1442896433181" duration="73000" />
+      <workItem from="1442903358343" duration="199000" />
+      <workItem from="1442903605090" duration="10000" />
+      <workItem from="1442904740888" duration="271000" />
+      <workItem from="1442908308104" duration="1189000" />
+      <workItem from="1442910143805" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2306000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/IdeaProjects/OpenCV Library - 2.4.10/OpenCV Library - 2.4.10.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/IdeaProjects/OpenCV Library - 2.4.10/OpenCV Library - 2.4.10.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.560567">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OpenCV Library - 2.4.10E</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 19 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
